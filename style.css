@@ -1,1 +1,7 @@
-body{backround-image: url("http://blogs-images.forbes.com/insertcoin/files/2015/11/the-walking-dead-season-6.jpg")}
+p{font-family: Varela Round;
+}
+body{background-image: url("http://blogs-images.forbes.com/insertcoin/files/2015/11/the-walking-dead-season-6.jpg");
+}
+h1{color: red}
+h1{text-align: center}
+p{color: silver}
