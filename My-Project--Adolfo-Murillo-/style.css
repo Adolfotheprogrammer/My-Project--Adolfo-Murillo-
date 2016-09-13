@@ -1,0 +1,27 @@
+p{font-family: Varela Round;
+}
+body{background-image: url("http://blogs-images.forbes.com/insertcoin/files/2015/11/the-walking-dead-season-6.jpg");
+}
+
+#navbar {
+  text-align: center;
+  padding: 20px;
+  background: rgb(50,100,310)
+
+}
+#characters {
+  text-decoration: none;
+  color: orange
+}
+
+#whatiexpectinthefuture {
+  text-decoration: none;
+  color: orange
+}
+
+h1{color: red}
+h1{text-align: center}
+p{color: silver}
+h3{color: gold}
+a{color: navy blue}
+h2{color: black}
